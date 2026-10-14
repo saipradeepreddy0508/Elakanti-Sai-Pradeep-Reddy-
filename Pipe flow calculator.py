@@ -1,5 +1,4 @@
-# Elakanti-Sai-Pradeep-Reddy-
-Pipe flow calculator 
+
 import math
 
 # Constant
